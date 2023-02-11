@@ -1,1 +1,1 @@
-# Authenticated-registration
+# Random Password Generator
